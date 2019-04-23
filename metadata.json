@@ -2,9 +2,9 @@
   "name": "puppetlabs-powershell_task_helper",
   "version": "0.1.0",
   "author": "Puppet Inc.",
-  "summary": "",
+  "summary": "A PowerShell helper library for use by Puppet Tasks",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/puppetlabs/puppetlabs-powershell_task_helper",
   "dependencies": [
 
   ],
